@@ -1,0 +1,23 @@
+{
+  "name": "7133",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshitaVasudev/calculator_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshitaVasudev/calculator_1/issues"
+  },
+  "homepage": "https://github.com/AkshitaVasudev/calculator_1#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.22.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
